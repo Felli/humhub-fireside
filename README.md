@@ -1,4 +1,4 @@
-# [HumHub](https://github.com/humhub/humhub) [Fireside](https://github.com/dreamhearth/fireside)
+# [HumHub](https://github.com/humhub/humhub) Fireside
 
 > Under Development
 
@@ -26,3 +26,5 @@ We'll try our best to get through all and any that are made clear (And we're sur
 
 ## Author(s)
  __Author: [@Felli](https://github.com/Felli)__
+
+> Notice: Please use the [Q&A](https://github.com/ConnectedCommunities/humhub-modules-questionanswer) module as this is a better option over a forums module at this time.
